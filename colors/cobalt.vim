@@ -36,15 +36,15 @@ hi Normal guifg=#ffffff guibg=#001b33 guisp=#001b33 gui=bold ctermfg=15 ctermbg=
 hi IncSearch guifg=#ffffff guibg=#0088ff guisp=#0088ff gui=NONE ctermfg=15 ctermbg=33 cterm=NONE
 hi WildMenu guifg=NONE guibg=#909da8 guisp=#909da8 gui=NONE ctermfg=NONE ctermbg=109 cterm=NONE
 hi SignColumn guifg=#1a1a1a guibg=#445291 guisp=#445291 gui=NONE ctermfg=234 ctermbg=60 cterm=NONE
-hi SpecialComment guifg=#0088ff guibg=NONE guisp=NONE gui=bold,italic ctermfg=33 ctermbg=NONE cterm=bold
+hi SpecialComment guifg=#0088ff guibg=NONE guisp=NONE gui=bold ctermfg=33 ctermbg=NONE cterm=bold
 hi Typedef guifg=#40e0d0 guibg=NONE guisp=NONE gui=bold ctermfg=80 ctermbg=NONE cterm=bold
 hi Title guifg=#ffffff guibg=NONE guisp=NONE gui=NONE ctermfg=15 ctermbg=NONE cterm=NONE
-hi Folded guifg=#1a1a1a guibg=#909da8 guisp=#909da8 gui=italic ctermfg=234 ctermbg=109 cterm=NONE
+hi Folded guifg=#1a1a1a guibg=#909da8 guisp=#909da8 gui=NONE ctermfg=234 ctermbg=109 cterm=NONE
 hi PreCondit guifg=#c526ff guibg=NONE guisp=NONE gui=NONE ctermfg=13 ctermbg=NONE cterm=NONE
 hi Include guifg=#c526ff guibg=NONE guisp=NONE gui=NONE ctermfg=13 ctermbg=NONE cterm=NONE
 hi Float guifg=#ff0044 guibg=NONE guisp=NONE gui=NONE ctermfg=197 ctermbg=NONE cterm=NONE
 hi StatusLineNC guifg=#ffffff guibg=#000000 guisp=#000000 gui=bold ctermfg=15 ctermbg=NONE cterm=bold
-hi NonText guifg=#2e373e guibg=NONE guisp=NONE gui=italic ctermfg=237 ctermbg=NONE cterm=NONE
+hi NonText guifg=#2e373e guibg=NONE guisp=NONE gui=NONE ctermfg=237 ctermbg=NONE cterm=NONE
 hi DiffText guifg=#ffffcd guibg=#5f2a5f guisp=#5f2a5f gui=NONE ctermfg=230 ctermbg=53 cterm=NONE
 hi ErrorMsg guifg=#ffffff guibg=#3f0000 guisp=#3f0000 gui=NONE ctermfg=15 ctermbg=52 cterm=NONE
 hi Debug guifg=#8b8a7c guibg=NONE guisp=NONE gui=NONE ctermfg=101 ctermbg=NONE cterm=NONE
@@ -52,7 +52,7 @@ hi PMenuSbar guifg=NONE guibg=#767c88 guisp=#767c88 gui=NONE ctermfg=NONE ctermb
 hi Identifier guifg=#40e0d0 guibg=NONE guisp=NONE gui=NONE ctermfg=80 ctermbg=NONE cterm=NONE
 hi SpecialChar guifg=#c526ff guibg=NONE guisp=NONE gui=bold ctermfg=13 ctermbg=NONE cterm=bold
 hi Conditional guifg=#ff9d00 guibg=NONE guisp=NONE gui=bold ctermfg=214 ctermbg=NONE cterm=bold
-hi StorageClass guifg=#40e0d0 guibg=NONE guisp=NONE gui=bold,italic ctermfg=80 ctermbg=NONE cterm=bold
+hi StorageClass guifg=#40e0d0 guibg=NONE guisp=NONE gui=bold ctermfg=80 ctermbg=NONE cterm=bold
 hi Todo guifg=#ffdd00 guibg=#000000 guisp=#000000 gui=NONE ctermfg=220 ctermbg=NONE cterm=NONE
 hi Special guifg=#c526ff guibg=NONE guisp=NONE gui=bold ctermfg=13 ctermbg=NONE cterm=bold
 hi LineNr guifg=#ffe4cc guibg=NONE guisp=NONE gui=NONE ctermfg=224 ctermbg=NONE cterm=NONE
@@ -62,7 +62,7 @@ hi PMenuSel guifg=#ffffff guibg=#0088ff guisp=#0088ff gui=NONE ctermfg=15 ctermb
 hi Search guifg=#ffffff guibg=#0088ff guisp=#0088ff gui=NONE ctermfg=15 ctermbg=33 cterm=NONE
 hi Delimiter guifg=#8b8a7c guibg=NONE guisp=NONE gui=NONE ctermfg=101 ctermbg=NONE cterm=NONE
 hi Statement guifg=#ff9d00 guibg=NONE guisp=NONE gui=bold ctermfg=214 ctermbg=NONE cterm=bold
-hi Comment guifg=#0088ff guibg=NONE guisp=NONE gui=italic ctermfg=33 ctermbg=NONE cterm=NONE
+hi Comment guifg=#0088ff guibg=NONE guisp=NONE gui=NONE ctermfg=33 ctermbg=NONE cterm=NONE
 hi Character guifg=#ff0044 guibg=NONE guisp=NONE gui=NONE ctermfg=197 ctermbg=NONE cterm=NONE
 hi TabLineSel guifg=#ffffff guibg=#0088ff guisp=#0088ff gui=bold ctermfg=15 ctermbg=33 cterm=bold
 hi Number guifg=#ff0044 guibg=NONE guisp=NONE gui=NONE ctermfg=197 ctermbg=NONE cterm=NONE
@@ -75,7 +75,7 @@ hi DiffDelete guifg=#ff0044 guibg=NONE guisp=NONE gui=NONE ctermfg=197 ctermbg=N
 hi CursorColumn guifg=NONE guibg=#1d2a30 guisp=#1d2a30 gui=NONE ctermfg=NONE ctermbg=236 cterm=NONE
 hi Define guifg=#8b8a7c guibg=NONE guisp=NONE gui=NONE ctermfg=101 ctermbg=NONE cterm=NONE
 hi Function guifg=#40e0d0 guibg=NONE guisp=NONE gui=bold ctermfg=80 ctermbg=NONE cterm=bold
-hi FoldColumn guifg=#1a1a1a guibg=#909da8 guisp=#909da8 gui=italic ctermfg=234 ctermbg=109 cterm=NONE
+hi FoldColumn guifg=#1a1a1a guibg=#909da8 guisp=#909da8 gui=NONE ctermfg=234 ctermbg=109 cterm=NONE
 hi PreProc guifg=#c526ff guibg=NONE guisp=NONE gui=NONE ctermfg=13 ctermbg=NONE cterm=NONE
 hi Visual guifg=#1a1a1a guibg=#e4dfff guisp=#e4dfff gui=NONE ctermfg=234 ctermbg=189 cterm=NONE
 hi VertSplit guifg=#1a1a1a guibg=#536570 guisp=#536570 gui=bold ctermfg=234 ctermbg=66 cterm=bold
