@@ -85,7 +85,7 @@ hi Type guifg=#40e0d0 guibg=NONE guisp=NONE gui=bold ctermfg=80 ctermbg=NONE cte
 hi DiffChange guifg=#ffffcd guibg=#306b8f guisp=#306b8f gui=NONE ctermfg=230 ctermbg=24 cterm=NONE
 hi Cursor guifg=#000000 guibg=#f9e0f5 guisp=#f9e0f5 gui=NONE ctermfg=NONE ctermbg=225 cterm=NONE
 hi Error guifg=#ffffff guibg=#3f0000 guisp=#3f0000 gui=NONE ctermfg=15 ctermbg=52 cterm=NONE
-hi PMenu guifg=#ffffff guibg=#000000 guisp=#000000 gui=NONE ctermfg=15 ctermbg=NONE cterm=NONE
+hi PMenu guifg=#ffffff guibg=#000000 guisp=#000000 gui=NONE ctermfg=15 ctermbg=65 cterm=NONE
 hi SpecialKey guifg=#ffdd00 guibg=NONE guisp=NONE gui=NONE ctermfg=220 ctermbg=NONE cterm=NONE
 hi Constant guifg=#ff0044 guibg=NONE guisp=NONE gui=NONE ctermfg=197 ctermbg=NONE cterm=NONE
 hi Tag guifg=#ff9d00 guibg=NONE guisp=NONE gui=NONE ctermfg=214 ctermbg=NONE cterm=NONE
