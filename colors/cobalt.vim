@@ -68,7 +68,7 @@ hi TabLineSel guifg=#ffffff guibg=#0088ff guisp=#0088ff gui=bold ctermfg=15 cter
 hi Number guifg=#ff0044 guibg=NONE guisp=NONE gui=NONE ctermfg=197 ctermbg=NONE cterm=NONE
 hi Boolean guifg=#ff0044 guibg=NONE guisp=NONE gui=NONE ctermfg=197 ctermbg=NONE cterm=NONE
 hi Operator guifg=#ff9d00 guibg=NONE guisp=NONE gui=bold ctermfg=214 ctermbg=NONE cterm=bold
-hi CursorLine guifg=NONE guibg=#1d2a30 guisp=#1d2a30 gui=NONE ctermfg=NONE ctermbg=236 cterm=NONE
+hi CursorLine guifg=NONE guibg=#1d2a30 guisp=#1d2a30 gui=NONE ctermfg=NONE ctermbg=240 cterm=NONE
 hi TabLineFill guifg=#1a1a1a guibg=#536570 guisp=#536570 gui=bold ctermfg=234 ctermbg=66 cterm=bold
 hi WarningMsg guifg=#080808 guibg=#ffcc00 guisp=#ffcc00 gui=NONE ctermfg=232 ctermbg=220 cterm=NONE
 hi DiffDelete guifg=#ff0044 guibg=NONE guisp=NONE gui=NONE ctermfg=197 ctermbg=NONE cterm=NONE
