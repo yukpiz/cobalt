@@ -39,7 +39,7 @@ hi SignColumn guifg=#1a1a1a guibg=#445291 guisp=#445291 gui=NONE ctermfg=234 cte
 hi SpecialComment guifg=#0088ff guibg=NONE guisp=NONE gui=bold ctermfg=33 ctermbg=NONE cterm=bold
 hi Typedef guifg=#40e0d0 guibg=NONE guisp=NONE gui=bold ctermfg=80 ctermbg=NONE cterm=bold
 hi Title guifg=#ffffff guibg=NONE guisp=NONE gui=NONE ctermfg=15 ctermbg=NONE cterm=NONE
-hi Folded guifg=#1a1a1a guibg=#909da8 guisp=#909da8 gui=NONE ctermfg=234 ctermbg=109 cterm=NONE
+hi Folded guifg=#1a1a1a guibg=#909da8 guisp=#909da8 gui=NONE ctermfg=113 ctermbg=249 cterm=NONE
 hi PreCondit guifg=#c526ff guibg=NONE guisp=NONE gui=NONE ctermfg=13 ctermbg=NONE cterm=NONE
 hi Include guifg=#c526ff guibg=NONE guisp=NONE gui=NONE ctermfg=13 ctermbg=NONE cterm=NONE
 hi Float guifg=#ff0044 guibg=NONE guisp=NONE gui=NONE ctermfg=197 ctermbg=NONE cterm=NONE
@@ -75,7 +75,7 @@ hi DiffDelete guifg=#ff0044 guibg=NONE guisp=NONE gui=NONE ctermfg=233 ctermbg=2
 hi CursorColumn guifg=NONE guibg=#1d2a30 guisp=#1d2a30 gui=NONE ctermfg=NONE ctermbg=236 cterm=NONE
 hi Define guifg=#8b8a7c guibg=NONE guisp=NONE gui=NONE ctermfg=101 ctermbg=NONE cterm=NONE
 hi Function guifg=#40e0d0 guibg=NONE guisp=NONE gui=bold ctermfg=80 ctermbg=NONE cterm=bold
-hi FoldColumn guifg=#1a1a1a guibg=#909da8 guisp=#909da8 gui=NONE ctermfg=234 ctermbg=109 cterm=NONE
+hi FoldColumn guifg=#1a1a1a guibg=#909da8 guisp=#909da8 gui=NONE ctermfg=113 ctermbg=249 cterm=NONE
 hi PreProc guifg=#c526ff guibg=NONE guisp=NONE gui=NONE ctermfg=13 ctermbg=NONE cterm=NONE
 hi Visual guifg=#1a1a1a guibg=#e4dfff guisp=#e4dfff gui=NONE ctermfg=234 ctermbg=189 cterm=NONE
 hi VertSplit guifg=#1a1a1a guibg=#536570 guisp=#536570 gui=bold ctermfg=234 ctermbg=66 cterm=bold
